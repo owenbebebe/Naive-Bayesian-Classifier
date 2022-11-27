@@ -81,8 +81,6 @@ Instance Parse_Data(string s, vector<Attribute> Attribute_List)
 	return Instances;
 }
 
-//****************** HW 3 - Starts Here ********************************
-
 //Print_Data print out all of the attribute names to the user and set the clasification attribute
 int Print_Data(vector<Instance> Instance_List, const vector<Attribute> Attribute_List)
 {
