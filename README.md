@@ -1,4 +1,4 @@
-<h1>Weather prediction - 1R Naive-BAyesian Classifier</h1>
+<h1>Weather prediction - 1R Naive-Bayesian Classifier</h1>
 
 <h2>Description</h2>
 
